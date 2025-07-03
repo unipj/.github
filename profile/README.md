@@ -1,12 +1,14 @@
-## Hi there 👋
+### Привет!
 
-<!--
+О новых сессиях сообщаем через систему мероприятий.
 
-**Here are some ideas to get you started:**
+Тематики:
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+Новое! 
+— RP сервер в GTA V;
+— Остров Altis Life (Arma 3);
+
+— Metrostroi-сервер в Garry's Mod, а также с разветвлением для троллейбусного (Trolleybus System);
+— SA:MP (RPG/DM).
+
+Более подробно узнать о нашем проекте можно в нашей группе ВКонтакте.
